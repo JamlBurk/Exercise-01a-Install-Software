@@ -1,7 +1,7 @@
 # Exercise 01a: Install Software
 
 ## My name is:
-Jason Francis
+James Burke
 
 ## My gamedev.stackexchange.com user number is:
 169538
